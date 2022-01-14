@@ -8,3 +8,7 @@
 3)
 ![image](https://user-images.githubusercontent.com/75342856/149566351-f248c1b7-61fc-4833-a382-d2e6433f73ad.png)
 
+4)
+![image](https://user-images.githubusercontent.com/75342856/149571102-713c3114-06ff-4bd8-bfc6-4c29588eeb61.png)
+Got to question 8 by completing first 7 problems
+
