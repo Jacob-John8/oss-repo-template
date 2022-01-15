@@ -6,6 +6,15 @@
 2)
 Link 1: Licensing is very important, The open source should be general use that is not bound to any specific product. All code and information must be transparent, people must be able to see the code, and have access to the code and its complied form.
 
+Link 2: It's just a manual saying that there is a correct place and way to ask questions on the internet. Be short, precise, friendly and ask in the right place and you should be fine.
+tip 1: Don't give the person you are asking your guesses to the problem, they might come to a different conclusion than you just based off of the facts at hand which will be more constructive.
+tip 2: Make sure you thank the people you ask, they are more likely to helpif they know that their time is appreciated.
+
+Link 3: I learned some interesting facts about RPI in 2002 about how it was connected to the internet very early. The RIAA wasobviously in the wrong, they were trying to squeeze absurd amounts money out of college students who were just trying to make their enviornment a better place. The law was also not adapted to modern technology at the time, so the RIAA took advantage of that for finacial gain. I very much dislike the RIAA now. I think this sends a bad message to all tinkers alike. These kids were just playing with technology in an innocent way just to get slapped with an unjust lawsuit. It sends the message of "Don't have fun trying to innovate, or you will be stomped on by the law". I think thats very discouraging to those who want to do similar things.
+
+Link 4:
+
+
 3)
 ![image](https://user-images.githubusercontent.com/75342856/149566351-f248c1b7-61fc-4833-a382-d2e6433f73ad.png)
 
