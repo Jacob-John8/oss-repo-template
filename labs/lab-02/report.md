@@ -4,6 +4,8 @@ Part 1)
 
 https://github.com/Jacob-John8/lab2part1
 
+![image](https://user-images.githubusercontent.com/75342856/150581714-37c66297-4bc9-4906-92b2-9adc61dcef0c.png)
+
 
 Part 3)
 
