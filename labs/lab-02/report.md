@@ -1,6 +1,8 @@
 # Lab 02 Report - Introduction to Git
 
+Part 1)
 
+https://github.com/Jacob-John8/lab2part1
 
 
 Part 3)
