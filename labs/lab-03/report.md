@@ -7,7 +7,7 @@
 1549 lines of code \
 first commit - Mar 13, 2016 \
 last commit - May 12, 2017 \
-1 branch - master
+1 branch
 
 ![image](https://user-images.githubusercontent.com/75342856/151598160-661f199e-9679-4840-9827-1851a3d424a4.png)
 
@@ -18,20 +18,30 @@ The info was different, gitstats says 2 contributors and 1551 lins of code
 158821 lines of code \
 first commit - Feb 19, 2014 \
 last commit - May 03, 2016 \
-9 branches - master, etc.
+9 branches
+
+![image](https://user-images.githubusercontent.com/75342856/151601962-eacc33eb-71c3-46b3-b097-dd6f11bc26f0.png)
+
+
 
 ### C-SSAW:
-? contributors \
-? lines of code \
-first commit - Mar 13, 2016 \
-last commit - May 12, 2017 \
-? branch - master
+4 contributors \
+13657 lines of code \
+first commit - Sep 13, 2019 \
+last commit - May 04, 2020 \
+6 branches
+
+![image](https://user-images.githubusercontent.com/75342856/151601322-44ca8a0a-85af-4232-8127-e19dd607aa1d.png)
+
+Authors was different by 2, lines are way off, seems like the manual way counts things it shoudnt be
 
 ### Campus Watch:
-? contributors \
-? lines of code \
-first commit - Mar 13, 2016 \
-last commit - May 12, 2017 \
-? branch - master
+2 contributors \
+2690 lines of code \
+first commit - Jan 18, 2019 \
+last commit - Apr 17, 2019 \
+13 branches
+
+Gitstats (4 authors, 2644 lines)
 
 
