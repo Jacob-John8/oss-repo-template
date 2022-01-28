@@ -1,12 +1,8 @@
 # Lab 03 Report - Community
 
-
-
-
-Part 2) Community
+Part 2 - Community
 
 Campvs
-
 4 contributors
 1549 lines of code
 first commit - Mar 13, 2016
