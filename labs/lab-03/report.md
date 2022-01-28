@@ -22,7 +22,7 @@ last commit - May 03, 2016 \
 
 ![image](https://user-images.githubusercontent.com/75342856/151601962-eacc33eb-71c3-46b3-b097-dd6f11bc26f0.png)
 
-
+The number of lines is VERY different, and the number of authors is greater according to gitstats
 
 ### C-SSAW:
 4 contributors \
