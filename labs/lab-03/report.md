@@ -47,3 +47,5 @@ last commit - Apr 17, 2019 \
 Gitstats (4 authors, 2644 lines)
 
 
+I am NOT doing anymore gource stuff, it takes up wayy to much space
+
