@@ -1,5 +1,13 @@
 # Lab 03 Report - Community
 
+## Part 1 - Documentation
+
+![image](https://user-images.githubusercontent.com/75342856/151641855-61f1545d-9a90-45ea-8406-405346f33bc1.png)
+
+![image](https://user-images.githubusercontent.com/75342856/151641917-415604a3-ff19-432a-885a-50d57f362ca8.png)
+
+![image](https://user-images.githubusercontent.com/75342856/151642100-27d81f2a-7c3f-4107-b494-8664902db4da.png)
+
 ## Part 2 - Community
 
 ### Campvs:
