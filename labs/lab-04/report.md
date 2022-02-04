@@ -14,12 +14,8 @@
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/jeffreyceballos/3rs | No | N/A
----------|:----------|:-------
 https://github.com/albmej/ai-gym-tracker | Yes | MIT License
----------|:----------|:-------
 https://github.com/rpi-alpaca/gui-old | Yes | MIT License
----------|:----------|:-------
 https://github.com/Stashmatic/ARAS | Yes | MIT License
----------|:----------|:-------
 https://github.com/carmelabs/carme | Yes | MIT License
 
