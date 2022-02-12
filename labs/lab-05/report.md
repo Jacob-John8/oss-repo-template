@@ -16,3 +16,23 @@ The output is its own file, see Step4_output.txt
 ## Step 5
 
 ![image](https://user-images.githubusercontent.com/75342856/153725643-0e411cba-0dae-42bf-bb14-9c690d3a4be1.png)
+
+## PART 2
+My Makefile
+///
+all: stat shar
+clean:
+	rm program.o source/statlib.a source/sharlib.so source/block.o static_block dynamic_block
+main:
+	gcc -c program.c -o program.o
+stat: statlib main
+	gcc program.o source/statlib.a -o static_block
+shar: sharlib main
+	gcc program.o source/sharlib.so -o dynamic_block -Wl,-rpath .
+statlib: block 
+	ar qc source/statlib.a source/block.o
+sharlib: block
+	gcc -shared -o source/sharlib.so source/block.o 
+block:
+	gcc -c source/block.c -o source/block.o
+///
