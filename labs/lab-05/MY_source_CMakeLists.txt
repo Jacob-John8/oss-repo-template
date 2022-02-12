@@ -1,0 +1,2 @@
+add_library(statlib block.c)
+add_library(sharlib SHARED block.c)
