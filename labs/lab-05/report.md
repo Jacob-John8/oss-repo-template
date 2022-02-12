@@ -8,3 +8,7 @@
 ## Step 3
 
 ![image](https://user-images.githubusercontent.com/75342856/153725385-06b759a6-839e-4b74-bcbe-a6764f466eff.png)
+
+## Step 4
+
+The output is its own file, see Step4_output.txt
