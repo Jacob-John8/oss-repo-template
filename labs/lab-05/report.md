@@ -12,3 +12,7 @@
 ## Step 4
 
 The output is its own file, see Step4_output.txt
+
+## Step 5
+
+![image](https://user-images.githubusercontent.com/75342856/153725643-0e411cba-0dae-42bf-bb14-9c690d3a4be1.png)
