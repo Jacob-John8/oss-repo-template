@@ -10,3 +10,12 @@
 
 3) No, dashboard is clean, I see no issues to be concerned with.
 
+<img width="432" alt="c2" src="https://user-images.githubusercontent.com/75342856/160254577-1e996860-2583-44f7-8f39-62aa9dfae85e.PNG">
+
+## Checkpoint 3
+
+<img width="656" alt="c31" src="https://user-images.githubusercontent.com/75342856/160255185-d9380339-7071-4fdd-b641-5853cbe812b6.PNG">
+
+"Copyright 2000-2020 Kitware, Inc. and Contributors" --> "Copyright 2000-2022 Kitware, Inc. and Contributors"
+
+<img width="439" alt="c32" src="https://user-images.githubusercontent.com/75342856/160255335-395798b6-0f42-4157-ba6a-01ab23d4290d.PNG">
