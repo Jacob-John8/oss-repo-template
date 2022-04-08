@@ -17,4 +17,9 @@ Image #2
 
 ![org_pants](https://user-images.githubusercontent.com/75342856/162543942-ca0793ab-8954-4030-8d83-02d8d7a24d48.jpg)
 ![small_pants](https://user-images.githubusercontent.com/75342856/162543958-ca07b76f-92fe-4c05-956f-2f4ebce60318.jpg)
-![image](https://user-images.githubusercontent.com/75342856/162543912-9a8d7128-df30-4724-b097-33a19a4aa128.png)
+![image](https://user-images.githubusercontent.com/75342856/162544550-97877f31-b092-4d05-8ffd-fc3267c006e9.png)
+
+Image #3
+![org_handbag](https://user-images.githubusercontent.com/75342856/162544436-ec3a189a-7a17-4979-b5af-4857d20dcc51.jpg)
+![small_handbag](https://user-images.githubusercontent.com/75342856/162544442-e45b529d-14be-446d-afe0-b58b7bbae92b.jpg)
+![image](https://user-images.githubusercontent.com/75342856/162544430-b9fb10af-351e-4f7e-b2cd-d23ee18ca107.png)
